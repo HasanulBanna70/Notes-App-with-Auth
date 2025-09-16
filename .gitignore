@@ -1,0 +1,38 @@
+# OS / System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Node / package managers (if you add later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / cache
+dist/
+build/
+.cache/
+*.bak
+
+# SASS / SCSS cache
+.sass-cache/
+
+# Environment / secrets (if used later)
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.zip
+*.tar.gz
